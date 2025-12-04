@@ -12,7 +12,7 @@ This project uses:
 
 ---
 
-## 📂 Features
+##  Features
 
 -  Search any GitHub username  
 -  Display profile picture  
