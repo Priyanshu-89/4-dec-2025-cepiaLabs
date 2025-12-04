@@ -1,9 +1,29 @@
-# Next.js Assignment Day-1
+# Next.js typeScript Assignment Github Profile Fetcher
 
-## Project Title: Responsive Website with Navigation
+### A simple and fast **Next.js + TypeScript** web app where users can enter any GitHub username and view their public profile information instantly.
 
-### Assignment
-Create a responsive website using Next.js and TypeScript that includes a functional navigation bar with four main sections: **Home**, **About**, **Services**, and **Contact**.
+This project uses:
+
+- **Next.js (App Router)**
+- **TypeScript**
+- **Tailwind CSS**
+- **GitHub REST API**
+- **Client-side Fetching**
+
+---
+
+## 📂 Features
+
+-  Search any GitHub username  
+-  Display profile picture  
+-  Display name or username  
+-  Display bio (if available)  
+-  Show followers count  
+-  Show public repositories count  
+-  Show location (if available)  
+-  Loading state  
+-  Error handling (User not found)  
+-  Clean UI built with Tailwind CSS  
 
 ---
 
